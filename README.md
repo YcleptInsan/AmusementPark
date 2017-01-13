@@ -1,5 +1,5 @@
 # Madlibs
-### By David Quisenberry
+### By Nick Wise
 ## Description
 Practice with forms in jQuery.  Variables.
 ##Setup
